@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2024-07-17T17:46:25.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ir_Nd2B4bIPaqOHZkqsD" version="24.7.1" type="google">
+  <diagram name="Page-1" id="JQIyCU5NeMlBUCWpEZvS">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3E40nxqTcSRw5jW9_J-p-3" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3E40nxqTcSRw5jW9_J-p-1" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="3E40nxqTcSRw5jW9_J-p-3">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3E40nxqTcSRw5jW9_J-p-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="3E40nxqTcSRw5jW9_J-p-3">
+          <mxGeometry x="50" y="10" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
